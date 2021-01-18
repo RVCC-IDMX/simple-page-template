@@ -1,1 +1,1 @@
-# simple-page-template
+# Simple Page
